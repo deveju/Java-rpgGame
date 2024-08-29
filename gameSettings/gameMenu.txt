@@ -1,0 +1,6 @@
+# Game Menu:
+>> 'fight' -=->> Search for an enemy
+>> 'heal' -=->> Heal player
+>> 'stats' -=->> Show game stats
+>> 'save' -=->> Save your game
+>> 'exit' -=->> Exit game

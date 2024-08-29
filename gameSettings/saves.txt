@@ -1,0 +1,7 @@
+saveName:godsave,
+playerHealth:999,
+playerAtkDmg:999,
+playerHealthPotions:999,
+playerEnemiesKilled:999,
+;
+
